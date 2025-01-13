@@ -4,3 +4,44 @@
     --cv-light: #ededed;
 }
 
+/* .header{
+   
+} */
+.header-background{
+    background-color: #4ea0ff;
+}
+
+
+.header-pattern {
+    position: absolute;
+    background-repeat: repeat;
+    top: 0;
+    left: 0;
+    background-image: url('logo.svg');
+    height: 50px;
+  
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+/* Colore tabella 1 #20a9e5 
+Colore riga. tabella 2 #b1e5f2*/
+
+.back-image-1{
+    position:relative;
+    
+    width: 150px;
+    height: 150px;
+    background-image: url(/assets/img/monitor.jpg);
+}
+
+.back-image-2{
+    width: 150px;
+    height: 150px;
+    background-image: url(/assets/img/graph.jpg);
+}
+/* colore "Potrebbe interessarti #8c8c8c */
